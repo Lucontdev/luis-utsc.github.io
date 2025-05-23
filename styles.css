@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #000;
+    margin: 40px;
+    line-height: 1.6;
+}
+
+header, section, footer {
+    margin-bottom: 40px;
+}
+
+h1, h2 {
+    border-bottom: 1px solid #000;
+    padding-bottom: 5px;
+}
+
+a {
+    color: #000;
+    text-decoration: underline;
+}
